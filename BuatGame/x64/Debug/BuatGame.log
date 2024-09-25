@@ -1,0 +1,14 @@
+﻿  Platform_Win32.cpp
+C:\Kuliah\Semester 1\BuatGame\BuatGame\BuatGame\renderer.cpp(37,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Platform_Win32.cpp')
+  
+C:\Kuliah\Semester 1\BuatGame\BuatGame\BuatGame\renderer.cpp(38,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Platform_Win32.cpp')
+  
+C:\Kuliah\Semester 1\BuatGame\BuatGame\BuatGame\renderer.cpp(39,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Platform_Win32.cpp')
+  
+C:\Kuliah\Semester 1\BuatGame\BuatGame\BuatGame\renderer.cpp(40,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Platform_Win32.cpp')
+  
+  BuatGame.vcxproj -> C:\Kuliah\Semester 1\BuatGame\BuatGame\x64\Debug\BuatGame.exe
